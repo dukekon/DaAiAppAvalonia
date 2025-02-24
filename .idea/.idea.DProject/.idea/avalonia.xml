@@ -3,6 +3,7 @@
   <component name="AvaloniaProject">
     <option name="projectPerEditor">
       <map>
+        <entry key="DaAiApp/App.axaml" value="DaAiApp/DaAiApp.csproj" />
         <entry key="DaAiApp/Views/MainWindow.axaml" value="DaAiApp/DaAiApp.csproj" />
       </map>
     </option>
